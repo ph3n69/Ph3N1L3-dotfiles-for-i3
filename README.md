@@ -20,3 +20,6 @@ rofi --- no configuration needed for rofi just use the built in theme changer an
 /home/user/.config/cava/ --- cava config file
 /home/ph3n/.config/tmux/ ---tmux config file if you want a tiling wm inside the terminal in a tiling wm lol
 /home/user/.config/unifetch/config.conf ---neofetch config file
+
+What about the polybar?
+https://github.com/adi1090x/polybar-themes not mine i admit it i stole it :(
